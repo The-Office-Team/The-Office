@@ -4,7 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Aa]ssets/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
@@ -47,3 +46,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+".\Assets\Monstrum OST 03 The Brute.mp3"
+".\Assets\Monstrum OST 03 The Brute.mp3.meta"
+/Assets/Plugins
+/Assets/TextMesh Pro
+/Assets/Monstrum OST 03 The Brute.mp3.meta
+/Assets/Monstrum OST 03 The Brute.mp3
+.collabignore

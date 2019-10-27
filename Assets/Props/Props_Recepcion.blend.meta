@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: d9cc10b8ffbf9a94b8364f4113e9142d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chair_Office_Purple.001
+    100002: Chair_Office_Purple.002
+    100004: Cube.160
+    100006: Cube.161
+    100008: Cube.162
+    100010: Cube.163
+    100012: Cube.164
+    100014: Cube.165
+    100016: Cube.166
+    100018: Cube.167
+    100020: Cylinder.006
+    100022: Cylinder002
+    100024: Low-Poly Plant_.010
+    100026: Low-Poly Plant_.011
+    100028: Low-Poly Plant_.012
+    100030: Low-Poly Plant_.013
+    100032: //RootNode
+    100034: Reception 01
+    100036: Sofa
+    100038: Sofa.001
+    100040: Umbrella_Closed
+    100042: Umbrella_Closed.001
+    400000: Chair_Office_Purple.001
+    400002: Chair_Office_Purple.002
+    400004: Cube.160
+    400006: Cube.161
+    400008: Cube.162
+    400010: Cube.163
+    400012: Cube.164
+    400014: Cube.165
+    400016: Cube.166
+    400018: Cube.167
+    400020: Cylinder.006
+    400022: Cylinder002
+    400024: Low-Poly Plant_.010
+    400026: Low-Poly Plant_.011
+    400028: Low-Poly Plant_.012
+    400030: Low-Poly Plant_.013
+    400032: //RootNode
+    400034: Reception 01
+    400036: Sofa
+    400038: Sofa.001
+    400040: Umbrella_Closed
+    400042: Umbrella_Closed.001
+    2100000: Body
+    2100002: Metal
+    2100004: OfficePropsAtlas1.001
+    2100006: Body.001
+    2100008: Metal.001
+    2100010: 18 - Default.001
+    2100012: 12 - Default.001
+    2100014: OfficePropsAtlas1.004
+    2100016: No Name
+    2100018: OfficePropsAtlas1.007
+    2100020: OfficePropsAtlas1.008
+    2100022: Mat
+    2100024: Mat_1
+    2100026: Material.043
+    2100028: Blatt.006
+    2100030: Blatt.007
+    2100032: Material.044
+    2300000: Chair_Office_Purple.001
+    2300002: Chair_Office_Purple.002
+    2300004: Cube.160
+    2300006: Cube.161
+    2300008: Cube.162
+    2300010: Cube.163
+    2300012: Cube.164
+    2300014: Cube.165
+    2300016: Cube.166
+    2300018: Cube.167
+    2300020: Cylinder.006
+    2300022: Cylinder002
+    2300024: Low-Poly Plant_.010
+    2300026: Low-Poly Plant_.011
+    2300028: Low-Poly Plant_.012
+    2300030: Low-Poly Plant_.013
+    2300032: Reception 01
+    2300034: Sofa
+    2300036: Sofa.001
+    2300038: Umbrella_Closed
+    2300040: Umbrella_Closed.001
+    3300000: Chair_Office_Purple.001
+    3300002: Chair_Office_Purple.002
+    3300004: Cube.160
+    3300006: Cube.161
+    3300008: Cube.162
+    3300010: Cube.163
+    3300012: Cube.164
+    3300014: Cube.165
+    3300016: Cube.166
+    3300018: Cube.167
+    3300020: Cylinder.006
+    3300022: Cylinder002
+    3300024: Low-Poly Plant_.010
+    3300026: Low-Poly Plant_.011
+    3300028: Low-Poly Plant_.012
+    3300030: Low-Poly Plant_.013
+    3300032: Reception 01
+    3300034: Sofa
+    3300036: Sofa.001
+    3300038: Umbrella_Closed
+    3300040: Umbrella_Closed.001
+    4300000: Sofa
+    4300002: Chair_Office_Purple.001
+    4300004: Sofa.001
+    4300006: Cylinder002
+    4300008: Chair_Office_Purple.002
+    4300010: Cylinder.006
+    4300012: Umbrella_Closed
+    4300014: Umbrella_Closed.001
+    4300016: Reception 01
+    4300018: Low-Poly Plant_.011
+    4300020: Low-Poly Plant_.010
+    4300022: Low-Poly Plant_.013
+    4300024: Low-Poly Plant_.012
+    4300026: Cube.163
+    4300028: Cube.162
+    4300030: Cube.161
+    4300032: Cube.160
+    4300034: Cube.167
+    4300036: Cube.166
+    4300038: Cube.165
+    4300040: Cube.164
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
