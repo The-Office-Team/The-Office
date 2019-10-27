@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 6d02d0d057d77184eadd3cbcf36b80f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube.194
+    100004: Cube.195
+    100006: Cube.198
+    100008: Cube.199
+    100010: Cube.202
+    100012: Cube.206
+    100014: Cube.207
+    100016: Cube.209
+    100018: Cube.210
+    100020: DISPENSER CON BIDON.001
+    100022: Eames_chair_DSW.015
+    100024: Eames_chair_DSW.016
+    100026: Eames_chair_DSW.017
+    100028: leg_1
+    100030: leg_1.001
+    100032: Light
+    100034: Low-Poly Plant_.018
+    100036: Low-Poly Plant_.019
+    100038: Low-Poly Plant_.020
+    100040: Low-Poly Plant_.021
+    100042: Low-Poly Plant_.022
+    100044: Low-Poly Plant_.023
+    100046: Perchero.017
+    100048: Perchero.018
+    100050: Perchero.019
+    100052: Perchero.020
+    100054: Perchero.021
+    100056: Perchero.022
+    100058: Perchero.023
+    100060: Perchero.024
+    100062: Perchero.025
+    100064: Perchero.026
+    100066: Plane.018
+    100068: Plane.019
+    100070: Plane.020
+    100072: Plane.021
+    100074: Plane.022
+    100076: //RootNode
+    400000: Camera
+    400002: Cube.194
+    400004: Cube.195
+    400006: Cube.198
+    400008: Cube.199
+    400010: Cube.202
+    400012: Cube.206
+    400014: Cube.207
+    400016: Cube.209
+    400018: Cube.210
+    400020: DISPENSER CON BIDON.001
+    400022: Eames_chair_DSW.015
+    400024: Eames_chair_DSW.016
+    400026: Eames_chair_DSW.017
+    400028: leg_1
+    400030: leg_1.001
+    400032: Light
+    400034: Low-Poly Plant_.018
+    400036: Low-Poly Plant_.019
+    400038: Low-Poly Plant_.020
+    400040: Low-Poly Plant_.021
+    400042: Low-Poly Plant_.022
+    400044: Low-Poly Plant_.023
+    400046: Perchero.017
+    400048: Perchero.018
+    400050: Perchero.019
+    400052: Perchero.020
+    400054: Perchero.021
+    400056: Perchero.022
+    400058: Perchero.023
+    400060: Perchero.024
+    400062: Perchero.025
+    400064: Perchero.026
+    400066: Plane.018
+    400068: Plane.019
+    400070: Plane.020
+    400072: Plane.021
+    400074: Plane.022
+    400076: //RootNode
+    2000000: Camera
+    2100000: No Name
+    2100002: wire_225143087.015
+    2100004: wire_087225198.015
+    2100006: wire_153228184.015
+    2100008: wire_027177088.015
+    2100010: wire_225143087.016
+    2100012: wire_087225198.016
+    2100014: wire_153228184.016
+    2100016: wire_027177088.016
+    2100018: wire_225143087.018
+    2100020: wire_087225198.018
+    2100022: wire_153228184.018
+    2100024: wire_027177088.018
+    2100026: console_table
+    2100028: console_table.001
+    2100030: Material.000
+    2100032: Blatt.001
+    2100034: Blatt.014
+    2100036: Material.049
+    2100038: Material.009
+    2100040: Blatt.011
+    2100042: Cabinet_material.006
+    2100044: Cabinet_material.004
+    2100046: Cabinet_material.007
+    2100048: Cabinet_material.008
+    2100050: Cabinet_material.009
+    2300000: Cube.194
+    2300002: Cube.195
+    2300004: Cube.198
+    2300006: Cube.199
+    2300008: Cube.202
+    2300010: Cube.206
+    2300012: Cube.207
+    2300014: Cube.209
+    2300016: Cube.210
+    2300018: DISPENSER CON BIDON.001
+    2300020: Eames_chair_DSW.015
+    2300022: Eames_chair_DSW.016
+    2300024: Eames_chair_DSW.017
+    2300026: leg_1
+    2300028: leg_1.001
+    2300030: Low-Poly Plant_.018
+    2300032: Low-Poly Plant_.019
+    2300034: Low-Poly Plant_.020
+    2300036: Low-Poly Plant_.021
+    2300038: Low-Poly Plant_.022
+    2300040: Low-Poly Plant_.023
+    2300042: Perchero.017
+    2300044: Perchero.018
+    2300046: Perchero.019
+    2300048: Perchero.020
+    2300050: Perchero.021
+    2300052: Perchero.022
+    2300054: Perchero.023
+    2300056: Perchero.024
+    2300058: Perchero.025
+    2300060: Perchero.026
+    2300062: Plane.018
+    2300064: Plane.019
+    2300066: Plane.020
+    2300068: Plane.021
+    2300070: Plane.022
+    3300000: Cube.194
+    3300002: Cube.195
+    3300004: Cube.198
+    3300006: Cube.199
+    3300008: Cube.202
+    3300010: Cube.206
+    3300012: Cube.207
+    3300014: Cube.209
+    3300016: Cube.210
+    3300018: DISPENSER CON BIDON.001
+    3300020: Eames_chair_DSW.015
+    3300022: Eames_chair_DSW.016
+    3300024: Eames_chair_DSW.017
+    3300026: leg_1
+    3300028: leg_1.001
+    3300030: Low-Poly Plant_.018
+    3300032: Low-Poly Plant_.019
+    3300034: Low-Poly Plant_.020
+    3300036: Low-Poly Plant_.021
+    3300038: Low-Poly Plant_.022
+    3300040: Low-Poly Plant_.023
+    3300042: Perchero.017
+    3300044: Perchero.018
+    3300046: Perchero.019
+    3300048: Perchero.020
+    3300050: Perchero.021
+    3300052: Perchero.022
+    3300054: Perchero.023
+    3300056: Perchero.024
+    3300058: Perchero.025
+    3300060: Perchero.026
+    3300062: Plane.018
+    3300064: Plane.019
+    3300066: Plane.020
+    3300068: Plane.021
+    3300070: Plane.022
+    4300000: Cube.194
+    4300002: Cube.195
+    4300004: Cube.198
+    4300006: Cube.199
+    4300008: Cube.202
+    4300010: Cube.206
+    4300012: Cube.207
+    4300014: Cube.209
+    4300016: Cube.210
+    4300018: DISPENSER CON BIDON.001
+    4300020: Eames_chair_DSW.015
+    4300022: Eames_chair_DSW.016
+    4300024: Eames_chair_DSW.017
+    4300026: leg_1
+    4300028: leg_1.001
+    4300030: Low-Poly Plant_.018
+    4300032: Low-Poly Plant_.019
+    4300034: Low-Poly Plant_.020
+    4300036: Low-Poly Plant_.021
+    4300038: Low-Poly Plant_.022
+    4300040: Low-Poly Plant_.023
+    4300042: Perchero.017
+    4300044: Perchero.018
+    4300046: Perchero.019
+    4300048: Perchero.020
+    4300050: Perchero.021
+    4300052: Perchero.022
+    4300054: Perchero.023
+    4300056: Perchero.024
+    4300058: Perchero.025
+    4300060: Perchero.026
+    4300062: Plane.018
+    4300064: Plane.019
+    4300066: Plane.020
+    4300068: Plane.021
+    4300070: Plane.022
+    10800000: Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

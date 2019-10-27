@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 928b281873206944abc2b757edc21ab8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 17324_Electric_broom_v1_NEW
+    100002: 17324_Electric_broom_v1_NEW.001
+    100004: Box
+    100006: Circle.001
+    100008: Pinch_125_wishnya
+    100010: Plane.005
+    100012: Plane.006
+    100014: //RootNode
+    100016: Tall_Locker_Cube.000
+    100018: Tall_Locker_Cube.013
+    400000: 17324_Electric_broom_v1_NEW
+    400002: 17324_Electric_broom_v1_NEW.001
+    400004: Box
+    400006: Circle.001
+    400008: Pinch_125_wishnya
+    400010: Plane.005
+    400012: Plane.006
+    400014: //RootNode
+    400016: Tall_Locker_Cube.000
+    400018: Tall_Locker_Cube.013
+    2100000: Glossy.002
+    2100002: Door.002
+    2100004: wire_228184153
+    2100006: wire_227153153
+    2100008: wire_225198087
+    2100010: wire_086086086
+    2100012: wire_154185229
+    2100014: wire_088199225
+    2100016: Default OBJ.001
+    2100018: Locker
+    2100020: Shine
+    2100022: Locker.001
+    2100024: Shine.001
+    2100026: texture.000
+    2100028: Texture
+    2100030: texture.001
+    2100032: texture.002
+    2100034: Default OBJ.003
+    2300000: 17324_Electric_broom_v1_NEW
+    2300002: 17324_Electric_broom_v1_NEW.001
+    2300004: Box
+    2300006: Circle.001
+    2300008: Pinch_125_wishnya
+    2300010: Plane.005
+    2300012: Plane.006
+    2300014: Tall_Locker_Cube.000
+    2300016: Tall_Locker_Cube.013
+    3300000: 17324_Electric_broom_v1_NEW
+    3300002: 17324_Electric_broom_v1_NEW.001
+    3300004: Box
+    3300006: Circle.001
+    3300008: Pinch_125_wishnya
+    3300010: Plane.005
+    3300012: Plane.006
+    3300014: Tall_Locker_Cube.000
+    3300016: Tall_Locker_Cube.013
+    4300000: Plane.006
+    4300002: Plane.005
+    4300004: Circle.001
+    4300006: Pinch_125_wishnya
+    4300008: 17324_Electric_broom_v1_NEW
+    4300010: Tall_Locker_Cube.013
+    4300012: Tall_Locker_Cube.000
+    4300014: Box
+    4300016: 17324_Electric_broom_v1_NEW.001
+    7400000: Circle.001|Box001|Take 001|BaseLayer
+    7400002: Circle.001|Box001|Take 001|BaseLayer.001
+    7400004: Circle.001|Camera.001|Take 001|Layer 001
+    7400006: Circle.001|Camera.002|Take 001|Layer 001
+    7400008: Circle.001|Camera.005|Take 001|Layer 001
+    7400010: Circle.001|Camera.008|Take 001|Layer 001
+    7400012: Circle.001|Camera|Take 001|Layer 001
+    7400014: Circle.001|Directional Light|Take 001|Layer 001
+    7400016: Circle.001|Directional Light|Take 001|Layer 001.001
+    7400018: Circle.001|Directional Light|Take 001|Layer 001.002
+    7400020: Circle.001|Directional Light|Take 001|Layer 001.003
+    7400022: Circle.001|Door.002
+    7400024: Circle.001|Grip.002
+    7400026: Circle.001|Lamp|Take 001|Layer 001
+    7400028: Circle.001|Mesh (2)|Take 001|Layer 001
+    7400030: Circle.001|Mesh.001|Take 001|Layer 001
+    7400032: Circle.001|Mesh.001|Take 001|Layer 001.001
+    7400034: Circle.001|Mesh|Take 001|Layer 001
+    7400036: Circle.001|Mesh|Take 001|Layer 001.001
+    7400038: Circle.001|PenClosed|Take 001|BaseLayer
+    7400040: Circle.001|PlantPotLargeA|Take 001|BaseLayer
+    7400042: Circle.001|PlantPotLargeA|Take 001|BaseLayer.001
+    7400044: Circle.001|PlantTypeA|Take 001|BaseLayer
+    7400046: Plane.005|Box001|Take 001|BaseLayer
+    7400048: Plane.005|Box001|Take 001|BaseLayer.001
+    7400050: Plane.005|Camera.001|Take 001|Layer 001
+    7400052: Plane.005|Camera.002|Take 001|Layer 001
+    7400054: Plane.005|Camera.005|Take 001|Layer 001
+    7400056: Plane.005|Camera.008|Take 001|Layer 001
+    7400058: Plane.005|Camera|Take 001|Layer 001
+    7400060: Plane.005|Directional Light|Take 001|Layer 001
+    7400062: Plane.005|Directional Light|Take 001|Layer 001.001
+    7400064: Plane.005|Directional Light|Take 001|Layer 001.002
+    7400066: Plane.005|Directional Light|Take 001|Layer 001.003
+    7400068: Plane.005|Door.002
+    7400070: Plane.005|Grip.002
+    7400072: Plane.005|Lamp|Take 001|Layer 001
+    7400074: Plane.005|Mesh (2)|Take 001|Layer 001
+    7400076: Plane.005|Mesh.001|Take 001|Layer 001
+    7400078: Plane.005|Mesh.001|Take 001|Layer 001.001
+    7400080: Plane.005|Mesh|Take 001|Layer 001
+    7400082: Plane.005|Mesh|Take 001|Layer 001.001
+    7400084: Plane.005|PenClosed|Take 001|BaseLayer
+    7400086: Plane.005|PlantPotLargeA|Take 001|BaseLayer
+    7400088: Plane.005|PlantPotLargeA|Take 001|BaseLayer.001
+    7400090: Plane.005|PlantTypeA|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

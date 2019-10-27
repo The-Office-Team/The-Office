@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 4076fcdb298521b42a7802b3a70cb6d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 10104_Computer_CPU_Case_v1_L3
+    100002: 10104_Computer_CPU_Case_v1_L3.001
+    100004: 10104_Computer_CPU_Case_v1_L3.002
+    100006: 10104_Computer_CPU_Case_v1_L3.003
+    100008: 10104_Computer_CPU_Case_v1_L3.004
+    100010: 10104_Computer_CPU_Case_v1_L3.005
+    100012: 10106_Computer Mouse_v1_L3
+    100014: 10106_Computer Mouse_v1_L3.001
+    100016: 10106_Computer Mouse_v1_L3.002
+    100018: 10106_Computer Mouse_v1_L3.003
+    100020: 10106_Computer Mouse_v1_L3.004
+    100022: 10106_Computer Mouse_v1_L3.005
+    100024: 10106_Computer Mouse_v1_L3.006
+    100026: Box002.000
+    100028: Box002.001
+    100030: Box002.002
+    100032: Box002.003
+    100034: Box002.004
+    100036: Box002.005
+    100038: Box002.006
+    100040: Chair_Office_Purple.000
+    100042: Chair_Office_Purple.008
+    100044: Chair_Office_Purple.011
+    100046: Chair_Office_Purple.012
+    100048: Chair_Office_Purple.013
+    100050: Chair_Office_Purple.014
+    100052: Cube.003
+    100054: Cube.011
+    100056: Cube.014
+    100058: Cube.015
+    100060: Cube.016
+    100062: Cube.017
+    100064: Cube.018
+    100066: Cube.019
+    100068: Cube.020
+    100070: Cube.021
+    100072: Cube.022
+    100074: Cube.023
+    100076: Cube.024
+    100078: Cube.025
+    100080: Cube.026
+    100082: Cube.027
+    100084: Cube.028
+    100086: Cube.029
+    100088: Cube.030
+    100090: Cube.031
+    100092: Cube.032
+    100094: Cube.033
+    100096: Cube.034
+    100098: Cube.035
+    100100: Cube.107
+    100102: Cylinder.007
+    100104: Cylinder.008
+    100106: Cylinder.009
+    100108: Cylinder.010
+    100110: Cylinder.011
+    100112: Eames_chair_DSW.004
+    100114: Eames_chair_DSW.005
+    100116: Eames_chair_DSW.006
+    100118: Eames_chair_DSW.007
+    100120: Low-Poly Plant_
+    100122: Low-Poly Plant_.001
+    100124: Low-Poly Plant_.002
+    100126: Low-Poly Plant_.003
+    100128: Low-Poly Plant_.004
+    100130: Low-Poly Plant_.005
+    100132: Object.000
+    100134: Object.001
+    100136: Object.002
+    100138: Object.003
+    100140: Object.004
+    100142: Object.005
+    100144: Object.006
+    100146: Perchero.000
+    100148: Perchero.001
+    100150: Perchero.002
+    100152: Perchero.003
+    100154: Perchero.006
+    100156: Perchero.007
+    100158: //RootNode
+    100160: Table_OfficeDesk
+    100162: Table_OfficeDesk.001
+    100164: Table_OfficeDesk.002
+    100166: Table_OfficeDesk.003
+    100168: Table_OfficeDesk.004
+    100170: Table_OfficeDesk.005
+    400000: 10104_Computer_CPU_Case_v1_L3
+    400002: 10104_Computer_CPU_Case_v1_L3.001
+    400004: 10104_Computer_CPU_Case_v1_L3.002
+    400006: 10104_Computer_CPU_Case_v1_L3.003
+    400008: 10104_Computer_CPU_Case_v1_L3.004
+    400010: 10104_Computer_CPU_Case_v1_L3.005
+    400012: 10106_Computer Mouse_v1_L3
+    400014: 10106_Computer Mouse_v1_L3.001
+    400016: 10106_Computer Mouse_v1_L3.002
+    400018: 10106_Computer Mouse_v1_L3.003
+    400020: 10106_Computer Mouse_v1_L3.004
+    400022: 10106_Computer Mouse_v1_L3.005
+    400024: 10106_Computer Mouse_v1_L3.006
+    400026: Box002.000
+    400028: Box002.001
+    400030: Box002.002
+    400032: Box002.003
+    400034: Box002.004
+    400036: Box002.005
+    400038: Box002.006
+    400040: Chair_Office_Purple.000
+    400042: Chair_Office_Purple.008
+    400044: Chair_Office_Purple.011
+    400046: Chair_Office_Purple.012
+    400048: Chair_Office_Purple.013
+    400050: Chair_Office_Purple.014
+    400052: Cube.003
+    400054: Cube.011
+    400056: Cube.014
+    400058: Cube.015
+    400060: Cube.016
+    400062: Cube.017
+    400064: Cube.018
+    400066: Cube.019
+    400068: Cube.020
+    400070: Cube.021
+    400072: Cube.022
+    400074: Cube.023
+    400076: Cube.024
+    400078: Cube.025
+    400080: Cube.026
+    400082: Cube.027
+    400084: Cube.028
+    400086: Cube.029
+    400088: Cube.030
+    400090: Cube.031
+    400092: Cube.032
+    400094: Cube.033
+    400096: Cube.034
+    400098: Cube.035
+    400100: Cube.107
+    400102: Cylinder.007
+    400104: Cylinder.008
+    400106: Cylinder.009
+    400108: Cylinder.010
+    400110: Cylinder.011
+    400112: Eames_chair_DSW.004
+    400114: Eames_chair_DSW.005
+    400116: Eames_chair_DSW.006
+    400118: Eames_chair_DSW.007
+    400120: Low-Poly Plant_
+    400122: Low-Poly Plant_.001
+    400124: Low-Poly Plant_.002
+    400126: Low-Poly Plant_.003
+    400128: Low-Poly Plant_.004
+    400130: Low-Poly Plant_.005
+    400132: Object.000
+    400134: Object.001
+    400136: Object.002
+    400138: Object.003
+    400140: Object.004
+    400142: Object.005
+    400144: Object.006
+    400146: Perchero.000
+    400148: Perchero.001
+    400150: Perchero.002
+    400152: Perchero.003
+    400154: Perchero.006
+    400156: Perchero.007
+    400158: //RootNode
+    400160: Table_OfficeDesk
+    400162: Table_OfficeDesk.001
+    400164: Table_OfficeDesk.002
+    400166: Table_OfficeDesk.003
+    400168: Table_OfficeDesk.004
+    400170: Table_OfficeDesk.005
+    2100000: OfficePropsAtlas1.015
+    2100002: OfficePropsAtlas1.002
+    2100004: OfficePropsAtlas1.009
+    2100006: OfficePropsAtlas1.014
+    2100008: OfficePropsAtlas1.016
+    2100010: OfficePropsAtlas1.030
+    2100012: OfficePropsAtlas1.028
+    2100014: OfficePropsAtlas1.032
+    2100016: OfficePropsAtlas1.035
+    2100018: OfficePropsAtlas1.036
+    2100020: OfficePropsAtlas1.037
+    2100022: OfficePropsAtlas1.038
+    2100024: 'Material #25.004'
+    2100026: 'Material #25.007'
+    2100028: Material.002
+    2100030: Material.003
+    2100032: No Name
+    2100034: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1
+    2100036: 10104_Computer_CPU_Case
+    2100038: 10104_Computer_CPU_Case.001
+    2100040: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.001
+    2100042: 'Material #25.015'
+    2100044: Material.011
+    2100046: Material.010
+    2100048: 'Material #25.014'
+    2100050: 10104_Computer_CPU_Case.002
+    2100052: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.002
+    2100054: 'Material #25.017'
+    2100056: Material.013
+    2100058: Material.012
+    2100060: 'Material #25.016'
+    2100062: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.003
+    2100064: 'Material #25.019'
+    2100066: Material.015
+    2100068: Material.014
+    2100070: 'Material #25.018'
+    2100072: 10104_Computer_CPU_Case.003
+    2100074: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.004
+    2100076: 'Material #25.021'
+    2100078: Material.017
+    2100080: Material.016
+    2100082: 'Material #25.020'
+    2100084: 10104_Computer_CPU_Case.005
+    2100086: 10104_Computer_CPU_Case.004
+    2100088: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.006
+    2100090: _10106_Computer_Mouse_v1_L310106_Computer_Mouse_v1.005
+    2100092: 'Material #25.025'
+    2100094: 'Material #25.024'
+    2100096: Material.021
+    2100098: Material.020
+    2100100: Material.019
+    2100102: Material.018
+    2100104: 'Material #25.023'
+    2100106: 'Material #25.022'
+    2100108: Blatt
+    2100110: Material.042
+    2100112: Material.045
+    2100114: Blatt.003
+    2100116: Blatt.004
+    2100118: Material.046
+    2100120: wire_225143087.004
+    2100122: wire_087225198.004
+    2100124: wire_153228184.004
+    2100126: wire_027177088.004
+    2100128: wire_225143087.005
+    2100130: wire_087225198.005
+    2100132: wire_153228184.005
+    2100134: wire_027177088.005
+    2100136: wire_225143087.007
+    2100138: wire_087225198.007
+    2100140: wire_153228184.007
+    2100142: wire_027177088.007
+    2100144: wire_225143087.006
+    2100146: wire_087225198.006
+    2100148: wire_153228184.006
+    2100150: wire_027177088.006
+    2300000: 10104_Computer_CPU_Case_v1_L3
+    2300002: 10104_Computer_CPU_Case_v1_L3.001
+    2300004: 10104_Computer_CPU_Case_v1_L3.002
+    2300006: 10104_Computer_CPU_Case_v1_L3.003
+    2300008: 10104_Computer_CPU_Case_v1_L3.004
+    2300010: 10104_Computer_CPU_Case_v1_L3.005
+    2300012: 10106_Computer Mouse_v1_L3
+    2300014: 10106_Computer Mouse_v1_L3.001
+    2300016: 10106_Computer Mouse_v1_L3.002
+    2300018: 10106_Computer Mouse_v1_L3.003
+    2300020: 10106_Computer Mouse_v1_L3.004
+    2300022: 10106_Computer Mouse_v1_L3.005
+    2300024: 10106_Computer Mouse_v1_L3.006
+    2300026: Box002.000
+    2300028: Box002.001
+    2300030: Box002.002
+    2300032: Box002.003
+    2300034: Box002.004
+    2300036: Box002.005
+    2300038: Box002.006
+    2300040: Chair_Office_Purple.000
+    2300042: Chair_Office_Purple.008
+    2300044: Chair_Office_Purple.011
+    2300046: Chair_Office_Purple.012
+    2300048: Chair_Office_Purple.013
+    2300050: Chair_Office_Purple.014
+    2300052: Cube.003
+    2300054: Cube.011
+    2300056: Cube.014
+    2300058: Cube.015
+    2300060: Cube.016
+    2300062: Cube.017
+    2300064: Cube.018
+    2300066: Cube.019
+    2300068: Cube.020
+    2300070: Cube.021
+    2300072: Cube.022
+    2300074: Cube.023
+    2300076: Cube.024
+    2300078: Cube.025
+    2300080: Cube.026
+    2300082: Cube.027
+    2300084: Cube.028
+    2300086: Cube.029
+    2300088: Cube.030
+    2300090: Cube.031
+    2300092: Cube.032
+    2300094: Cube.033
+    2300096: Cube.034
+    2300098: Cube.035
+    2300100: Cube.107
+    2300102: Cylinder.007
+    2300104: Cylinder.008
+    2300106: Cylinder.009
+    2300108: Cylinder.010
+    2300110: Cylinder.011
+    2300112: Eames_chair_DSW.004
+    2300114: Eames_chair_DSW.005
+    2300116: Eames_chair_DSW.006
+    2300118: Eames_chair_DSW.007
+    2300120: Low-Poly Plant_
+    2300122: Low-Poly Plant_.001
+    2300124: Low-Poly Plant_.002
+    2300126: Low-Poly Plant_.003
+    2300128: Low-Poly Plant_.004
+    2300130: Low-Poly Plant_.005
+    2300132: Object.000
+    2300134: Object.001
+    2300136: Object.002
+    2300138: Object.003
+    2300140: Object.004
+    2300142: Object.005
+    2300144: Object.006
+    2300146: Perchero.000
+    2300148: Perchero.001
+    2300150: Perchero.002
+    2300152: Perchero.003
+    2300154: Perchero.006
+    2300156: Perchero.007
+    2300158: Table_OfficeDesk
+    2300160: Table_OfficeDesk.001
+    2300162: Table_OfficeDesk.002
+    2300164: Table_OfficeDesk.003
+    2300166: Table_OfficeDesk.004
+    2300168: Table_OfficeDesk.005
+    3300000: 10104_Computer_CPU_Case_v1_L3
+    3300002: 10104_Computer_CPU_Case_v1_L3.001
+    3300004: 10104_Computer_CPU_Case_v1_L3.002
+    3300006: 10104_Computer_CPU_Case_v1_L3.003
+    3300008: 10104_Computer_CPU_Case_v1_L3.004
+    3300010: 10104_Computer_CPU_Case_v1_L3.005
+    3300012: 10106_Computer Mouse_v1_L3
+    3300014: 10106_Computer Mouse_v1_L3.001
+    3300016: 10106_Computer Mouse_v1_L3.002
+    3300018: 10106_Computer Mouse_v1_L3.003
+    3300020: 10106_Computer Mouse_v1_L3.004
+    3300022: 10106_Computer Mouse_v1_L3.005
+    3300024: 10106_Computer Mouse_v1_L3.006
+    3300026: Box002.000
+    3300028: Box002.001
+    3300030: Box002.002
+    3300032: Box002.003
+    3300034: Box002.004
+    3300036: Box002.005
+    3300038: Box002.006
+    3300040: Chair_Office_Purple.000
+    3300042: Chair_Office_Purple.008
+    3300044: Chair_Office_Purple.011
+    3300046: Chair_Office_Purple.012
+    3300048: Chair_Office_Purple.013
+    3300050: Chair_Office_Purple.014
+    3300052: Cube.003
+    3300054: Cube.011
+    3300056: Cube.014
+    3300058: Cube.015
+    3300060: Cube.016
+    3300062: Cube.017
+    3300064: Cube.018
+    3300066: Cube.019
+    3300068: Cube.020
+    3300070: Cube.021
+    3300072: Cube.022
+    3300074: Cube.023
+    3300076: Cube.024
+    3300078: Cube.025
+    3300080: Cube.026
+    3300082: Cube.027
+    3300084: Cube.028
+    3300086: Cube.029
+    3300088: Cube.030
+    3300090: Cube.031
+    3300092: Cube.032
+    3300094: Cube.033
+    3300096: Cube.034
+    3300098: Cube.035
+    3300100: Cube.107
+    3300102: Cylinder.007
+    3300104: Cylinder.008
+    3300106: Cylinder.009
+    3300108: Cylinder.010
+    3300110: Cylinder.011
+    3300112: Eames_chair_DSW.004
+    3300114: Eames_chair_DSW.005
+    3300116: Eames_chair_DSW.006
+    3300118: Eames_chair_DSW.007
+    3300120: Low-Poly Plant_
+    3300122: Low-Poly Plant_.001
+    3300124: Low-Poly Plant_.002
+    3300126: Low-Poly Plant_.003
+    3300128: Low-Poly Plant_.004
+    3300130: Low-Poly Plant_.005
+    3300132: Object.000
+    3300134: Object.001
+    3300136: Object.002
+    3300138: Object.003
+    3300140: Object.004
+    3300142: Object.005
+    3300144: Object.006
+    3300146: Perchero.000
+    3300148: Perchero.001
+    3300150: Perchero.002
+    3300152: Perchero.003
+    3300154: Perchero.006
+    3300156: Perchero.007
+    3300158: Table_OfficeDesk
+    3300160: Table_OfficeDesk.001
+    3300162: Table_OfficeDesk.002
+    3300164: Table_OfficeDesk.003
+    3300166: Table_OfficeDesk.004
+    3300168: Table_OfficeDesk.005
+    4300000: Chair_Office_Purple.000
+    4300002: Table_OfficeDesk
+    4300004: Table_OfficeDesk.001
+    4300006: Table_OfficeDesk.002
+    4300008: Table_OfficeDesk.003
+    4300010: Table_OfficeDesk.005
+    4300012: Table_OfficeDesk.004
+    4300014: Chair_Office_Purple.008
+    4300016: Chair_Office_Purple.011
+    4300018: Chair_Office_Purple.012
+    4300020: Chair_Office_Purple.013
+    4300022: Chair_Office_Purple.014
+    4300024: Object.004
+    4300026: Box002.001
+    4300028: Cube.003
+    4300030: Cube.015
+    4300032: Cube.107
+    4300034: 10106_Computer Mouse_v1_L3
+    4300036: 10104_Computer_CPU_Case_v1_L3
+    4300038: 10104_Computer_CPU_Case_v1_L3.001
+    4300040: 10106_Computer Mouse_v1_L3.001
+    4300042: Box002.000
+    4300044: Cube.016
+    4300046: Cube.014
+    4300048: Cube.011
+    4300050: Object.000
+    4300052: 10104_Computer_CPU_Case_v1_L3.002
+    4300054: 10106_Computer Mouse_v1_L3.002
+    4300056: Box002.002
+    4300058: Cube.019
+    4300060: Cube.018
+    4300062: Cube.017
+    4300064: Object.001
+    4300066: 10106_Computer Mouse_v1_L3.003
+    4300068: Box002.003
+    4300070: Cube.022
+    4300072: Cube.021
+    4300074: Cube.020
+    4300076: Object.002
+    4300078: 10104_Computer_CPU_Case_v1_L3.003
+    4300080: 10106_Computer Mouse_v1_L3.004
+    4300082: Box002.004
+    4300084: Cube.025
+    4300086: Cube.024
+    4300088: Cube.023
+    4300090: Object.003
+    4300092: 10104_Computer_CPU_Case_v1_L3.005
+    4300094: 10104_Computer_CPU_Case_v1_L3.004
+    4300096: 10106_Computer Mouse_v1_L3.006
+    4300098: 10106_Computer Mouse_v1_L3.005
+    4300100: Box002.006
+    4300102: Box002.005
+    4300104: Cube.031
+    4300106: Cube.030
+    4300108: Cube.029
+    4300110: Cube.028
+    4300112: Cube.027
+    4300114: Cube.026
+    4300116: Object.006
+    4300118: Object.005
+    4300120: Cube.032
+    4300122: Cylinder.007
+    4300124: Cube.033
+    4300126: Cylinder.008
+    4300128: Cube.035
+    4300130: Cube.034
+    4300132: Cylinder.010
+    4300134: Cylinder.009
+    4300136: Cylinder.011
+    4300138: Low-Poly Plant_.001
+    4300140: Low-Poly Plant_
+    4300142: Low-Poly Plant_.003
+    4300144: Low-Poly Plant_.002
+    4300146: Low-Poly Plant_.005
+    4300148: Low-Poly Plant_.004
+    4300150: Eames_chair_DSW.004
+    4300152: Eames_chair_DSW.005
+    4300154: Eames_chair_DSW.007
+    4300156: Eames_chair_DSW.006
+    4300158: Perchero.007
+    4300160: Perchero.006
+    4300162: Perchero.003
+    4300164: Perchero.002
+    4300166: Perchero.001
+    4300168: Perchero.000
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

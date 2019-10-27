@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: e04ed4df6b989824780eedffe412c1ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chair_Office_Purple.003
+    100002: Chair_Office_Purple.004
+    100004: Chair_Office_Purple.005
+    100006: Chair_Office_Purple.006
+    100008: Chair_Office_Purple.007
+    100010: Chair_Office_Purple.009
+    100012: Chair_Office_Purple.010
+    100014: Chair_Office_Purple.026
+    100016: Chair_Office_Purple.027
+    100018: Chair_Office_Purple.028
+    100020: Cube
+    100022: Cube.002
+    100024: Cube.004
+    100026: Cube.012
+    100028: Cube.013
+    100030: Cube.139
+    100032: Cube.140
+    100034: Cylinder
+    100036: Cylinder.000
+    100038: Cylinder.001
+    100040: Cylinder.002
+    100042: Cylinder.003
+    100044: Cylinder.004
+    100046: Cylinder.005
+    100048: Laptop_Closed
+    100050: Laptop_Closed.001
+    100052: Laptop_Closed.002
+    100054: Laptop_Closed.003
+    100056: Laptop_Off.000
+    100058: Laptop_Off.001
+    100060: Laptop_Off.002
+    100062: Laptop_Off.003
+    100064: Laptop_Off.004
+    100066: Laptop_Off.005
+    100068: Legal pad
+    100070: Pen black
+    100072: Pen black.001
+    100074: Pen cap black
+    100076: Pen cap black.001
+    100078: Plane
+    100080: //RootNode
+    100082: Rectangle002
+    100084: Sticky note red
+    100086: Sticky note red.001
+    100088: Sticky note red.002
+    100090: Table_Conference
+    100092: Tablet
+    400000: Chair_Office_Purple.003
+    400002: Chair_Office_Purple.004
+    400004: Chair_Office_Purple.005
+    400006: Chair_Office_Purple.006
+    400008: Chair_Office_Purple.007
+    400010: Chair_Office_Purple.009
+    400012: Chair_Office_Purple.010
+    400014: Chair_Office_Purple.026
+    400016: Chair_Office_Purple.027
+    400018: Chair_Office_Purple.028
+    400020: Cube
+    400022: Cube.002
+    400024: Cube.004
+    400026: Cube.012
+    400028: Cube.013
+    400030: Cube.139
+    400032: Cube.140
+    400034: Cylinder
+    400036: Cylinder.000
+    400038: Cylinder.001
+    400040: Cylinder.002
+    400042: Cylinder.003
+    400044: Cylinder.004
+    400046: Cylinder.005
+    400048: Laptop_Closed
+    400050: Laptop_Closed.001
+    400052: Laptop_Closed.002
+    400054: Laptop_Closed.003
+    400056: Laptop_Off.000
+    400058: Laptop_Off.001
+    400060: Laptop_Off.002
+    400062: Laptop_Off.003
+    400064: Laptop_Off.004
+    400066: Laptop_Off.005
+    400068: Legal pad
+    400070: Pen black
+    400072: Pen black.001
+    400074: Pen cap black
+    400076: Pen cap black.001
+    400078: Plane
+    400080: //RootNode
+    400082: Rectangle002
+    400084: Sticky note red
+    400086: Sticky note red.001
+    400088: Sticky note red.002
+    400090: Table_Conference
+    400092: Tablet
+    2100000: Frame
+    2100002: Glass
+    2100004: OfficePropsAtlas1.005
+    2100006: OfficePropsAtlas1.010
+    2100008: OfficePropsAtlas1.011
+    2100010: OfficePropsAtlas1.012
+    2100012: OfficePropsAtlas1.017
+    2100014: OfficePropsAtlas1.018
+    2100016: OfficePropsAtlas1.019
+    2100018: OfficePropsAtlas1.022
+    2100020: OfficePropsAtlas1.023
+    2100022: OfficePropsAtlas1.024
+    2100024: OfficePropsAtlas1.025
+    2100026: OfficePropsAtlas1.026
+    2100028: OfficePropsAtlas1.027
+    2100030: OfficePropsAtlas1.029
+    2100032: OfficePropsAtlas1.031
+    2100034: No Name
+    2100036: OfficePropsAtlas1
+    2100038: 12 - Default
+    2100040: 18 - Default
+    2100042: OfficePropsAtlas1.003
+    2100044: Material.094
+    2100046: Material.092
+    2100048: Material.093
+    2100050: Material.095
+    2100052: YELLOW RUB.001
+    2100054: white  rub.001
+    2100056: metal.001
+    2100058: Material.090
+    2100060: Material.089
+    2100062: Material.088
+    2100064: Material.087
+    2100066: Material.086
+    2100068: GLASS.001
+    2100070: OfficePropsAtlas1.062
+    2100072: OfficePropsAtlas1.063
+    2100074: OfficePropsAtlas1.064
+    2100076: OfficePropsAtlas1.065
+    2100078: OfficePropsAtlas1.066
+    2300000: Chair_Office_Purple.003
+    2300002: Chair_Office_Purple.004
+    2300004: Chair_Office_Purple.005
+    2300006: Chair_Office_Purple.006
+    2300008: Chair_Office_Purple.007
+    2300010: Chair_Office_Purple.009
+    2300012: Chair_Office_Purple.010
+    2300014: Chair_Office_Purple.026
+    2300016: Chair_Office_Purple.027
+    2300018: Chair_Office_Purple.028
+    2300020: Cube
+    2300022: Cube.002
+    2300024: Cube.004
+    2300026: Cube.012
+    2300028: Cube.013
+    2300030: Cube.139
+    2300032: Cube.140
+    2300034: Cylinder
+    2300036: Cylinder.000
+    2300038: Cylinder.001
+    2300040: Cylinder.002
+    2300042: Cylinder.003
+    2300044: Cylinder.004
+    2300046: Cylinder.005
+    2300048: Laptop_Closed
+    2300050: Laptop_Closed.001
+    2300052: Laptop_Closed.002
+    2300054: Laptop_Closed.003
+    2300056: Laptop_Off.000
+    2300058: Laptop_Off.001
+    2300060: Laptop_Off.002
+    2300062: Laptop_Off.003
+    2300064: Laptop_Off.004
+    2300066: Laptop_Off.005
+    2300068: Legal pad
+    2300070: Pen black
+    2300072: Pen black.001
+    2300074: Pen cap black
+    2300076: Pen cap black.001
+    2300078: Plane
+    2300080: Rectangle002
+    2300082: Sticky note red
+    2300084: Sticky note red.001
+    2300086: Sticky note red.002
+    2300088: Table_Conference
+    2300090: Tablet
+    3300000: Chair_Office_Purple.003
+    3300002: Chair_Office_Purple.004
+    3300004: Chair_Office_Purple.005
+    3300006: Chair_Office_Purple.006
+    3300008: Chair_Office_Purple.007
+    3300010: Chair_Office_Purple.009
+    3300012: Chair_Office_Purple.010
+    3300014: Chair_Office_Purple.026
+    3300016: Chair_Office_Purple.027
+    3300018: Chair_Office_Purple.028
+    3300020: Cube
+    3300022: Cube.002
+    3300024: Cube.004
+    3300026: Cube.012
+    3300028: Cube.013
+    3300030: Cube.139
+    3300032: Cube.140
+    3300034: Cylinder
+    3300036: Cylinder.000
+    3300038: Cylinder.001
+    3300040: Cylinder.002
+    3300042: Cylinder.003
+    3300044: Cylinder.004
+    3300046: Cylinder.005
+    3300048: Laptop_Closed
+    3300050: Laptop_Closed.001
+    3300052: Laptop_Closed.002
+    3300054: Laptop_Closed.003
+    3300056: Laptop_Off.000
+    3300058: Laptop_Off.001
+    3300060: Laptop_Off.002
+    3300062: Laptop_Off.003
+    3300064: Laptop_Off.004
+    3300066: Laptop_Off.005
+    3300068: Legal pad
+    3300070: Pen black
+    3300072: Pen black.001
+    3300074: Pen cap black
+    3300076: Pen cap black.001
+    3300078: Plane
+    3300080: Rectangle002
+    3300082: Sticky note red
+    3300084: Sticky note red.001
+    3300086: Sticky note red.002
+    3300088: Table_Conference
+    3300090: Tablet
+    4300000: Cube
+    4300002: Cube.002
+    4300004: Cube.004
+    4300006: Chair_Office_Purple.004
+    4300008: Chair_Office_Purple.009
+    4300010: Chair_Office_Purple.010
+    4300012: Chair_Office_Purple.005
+    4300014: Chair_Office_Purple.003
+    4300016: Chair_Office_Purple.006
+    4300018: Chair_Office_Purple.007
+    4300020: Laptop_Off.001
+    4300022: Laptop_Off.002
+    4300024: Laptop_Off.003
+    4300026: Laptop_Off.000
+    4300028: Laptop_Closed
+    4300030: Laptop_Closed.001
+    4300032: Laptop_Closed.003
+    4300034: Laptop_Off.004
+    4300036: Cylinder.001
+    4300038: Cylinder.000
+    4300040: Cylinder.002
+    4300042: Cylinder.005
+    4300044: Cylinder.004
+    4300046: Cylinder.003
+    4300048: Table_Conference
+    4300050: Cylinder
+    4300052: Rectangle002
+    4300054: Tablet
+    4300056: Sticky note red
+    4300058: Sticky note red.001
+    4300060: Sticky note red.002
+    4300062: Legal pad
+    4300064: Pen cap black
+    4300066: Pen black
+    4300068: Pen black.001
+    4300070: Pen cap black.001
+    4300072: Cube.013
+    4300074: Cube.012
+    4300076: Cube.139
+    4300078: Cube.140
+    4300080: Plane
+    4300082: Chair_Office_Purple.026
+    4300084: Chair_Office_Purple.027
+    4300086: Chair_Office_Purple.028
+    4300088: Laptop_Closed.002
+    4300090: Laptop_Off.005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
