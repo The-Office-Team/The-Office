@@ -74,7 +74,7 @@ public class MounstrueControlo : MonoBehaviour
                 agent.speed = patrolSpeed;
                 StartPatrol();
                 intWaitTime = waitTime;
-                seeingPlayer = false;
+                seenPlayer = false;
             }
             else if (seenPlayer)
             {

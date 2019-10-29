@@ -29,6 +29,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
+        PlayerMngr.instance.player.GetComponent<AudioSource>().UnPause();
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
         GamePaused = false;
@@ -38,6 +39,7 @@ public class PauseMenu : MonoBehaviour
 
     void Pause()
     {
+        PlayerMngr.instance.player.GetComponent<AudioSource>().Pause();
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
         GamePaused = true;
