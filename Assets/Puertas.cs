@@ -33,7 +33,6 @@ public class Puertas : MonoBehaviour, IInteractable
         }
         else
         {
-            print("cock");
             anim.Play(Open ? "Armature|DoorClose" : "Armature|DoorOpen");
             Open = !Open;
             cll.isTrigger = Open;

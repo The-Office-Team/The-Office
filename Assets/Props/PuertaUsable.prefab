@@ -122,6 +122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Locked: 0
+  key: {fileID: 0}
   OpenSnd: {fileID: 8300000, guid: 2c9be049c6a97bf4c9b20dffd3b9be47, type: 3}
   CloseSnd: {fileID: 8300000, guid: 521dcce4424d3ee4e93df6904b67bab9, type: 3}
   LockedSnds:
@@ -194,6 +195,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 13700000, guid: 948c63bce8fb3ce4a9238db0efb7cc73, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4e682cf3f014ec04ea92fb522545f24f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 948c63bce8fb3ce4a9238db0efb7cc73, type: 3}
 --- !u!1 &8202578991805569551 stripped

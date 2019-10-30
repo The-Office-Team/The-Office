@@ -36,6 +36,7 @@ public class MounstrueControlo : MonoBehaviour
     GameObject player;
 
     public GameObject[] patrolPoints;
+    List<int> patrolorder = new List<int>();
     GameObject target;
     int currentTargetIndex;
 
@@ -45,6 +46,14 @@ public class MounstrueControlo : MonoBehaviour
         rend = GetComponentInChildren<Renderer>();
         player = PlayerMngr.instance.player;
         patrolPoints = GameObject.FindGameObjectsWithTag("PatrolPoint");
+        foreach (GameObject pp in patrolPoints)
+        {
+            int parsed = int.Parse(pp.name);
+            patrolorder.Add(parsed);
+        }
+        print(patrolorder);
+        Array.Sort(patrolorder.ToArray(), patrolPoints);
+        print(patrolPoints);
         UpdateTarget(0);
         StartPatrol();
     }
