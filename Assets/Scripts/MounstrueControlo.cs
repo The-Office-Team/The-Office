@@ -20,7 +20,7 @@ public class MounstrueControlo : MonoBehaviour
     private float internalptime = patrolWaitTime;
 
     public bool seeingPlayer = false; //Nos está viendo?
-    bool seenPlayer = false;
+    public bool seenPlayer = false;
 
     [Tooltip("Puede vernos? (Está para la mecánica del sensor de movimiento)")]
     public bool canSeePlayer = true; //Referenciar como PlayerMngr.instance.monster
@@ -39,6 +39,8 @@ public class MounstrueControlo : MonoBehaviour
     List<int> patrolorder = new List<int>();
     GameObject target;
     int currentTargetIndex;
+    AudioSource ASCR;
+    bool sndplaying;
 
     void Start()
     {
@@ -46,6 +48,7 @@ public class MounstrueControlo : MonoBehaviour
         rend = GetComponentInChildren<Renderer>();
         player = PlayerMngr.instance.player;
         patrolPoints = GameObject.FindGameObjectsWithTag("PatrolPoint");
+        ASCR = gameObject.GetComponent<AudioSource>();
         foreach (GameObject pp in patrolPoints)
         {
             int parsed = int.Parse(pp.name);
@@ -106,6 +109,19 @@ public class MounstrueControlo : MonoBehaviour
                 agent.SetDestination(target.transform.position);
                 internalptime = patrolWaitTime;
             }
+        }
+        if (seeingPlayer || seenPlayer)
+        {
+            if (!sndplaying)
+            {
+                ASCR.Play();
+                sndplaying = true;
+            }
+        }
+        else if (!seenPlayer || !seeingPlayer)
+        {
+            ASCR.Stop();
+            sndplaying = false;
         }
     }
 

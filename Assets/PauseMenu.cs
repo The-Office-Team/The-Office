@@ -34,6 +34,7 @@ public class PauseMenu : MonoBehaviour
 
     public void Resume()
     {
+        PlayerMngr.instance.monster.GetComponent<AudioSource>().UnPause();
         PlayerMngr.instance.player.GetComponents<AudioSource>()[1].UnPause();
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
@@ -44,6 +45,7 @@ public class PauseMenu : MonoBehaviour
 
     void Pause()
     {
+        PlayerMngr.instance.monster.GetComponent<AudioSource>().Pause();
         PlayerMngr.instance.player.GetComponents<AudioSource>()[1].Pause();
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
