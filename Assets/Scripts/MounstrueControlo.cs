@@ -41,6 +41,7 @@ public class MounstrueControlo : MonoBehaviour
     int currentTargetIndex;
     AudioSource ASCR;
     bool sndplaying;
+    int retries;
 
     void Start()
     {
@@ -82,11 +83,26 @@ public class MounstrueControlo : MonoBehaviour
            
             if (intWaitTime < 0)
             {
-                rend.material.color = Color.yellow;
-                agent.speed = patrolSpeed;
-                StartPatrol();
-                intWaitTime = waitTime;
-                seenPlayer = false;
+                if (seeingPlayer)
+                {
+                    intWaitTime = waitTime;
+                    retries++;
+                    if(retries >= 2 && DistanceToPlayer < 2)
+                    {
+                        seeingPlayer = false;
+                        seenPlayer = false;
+                        StartCoroutine("ResetVis");
+                        retries = 0;
+                    }
+                }
+                else
+                { 
+                    rend.material.color = Color.white;
+                    agent.speed = patrolSpeed;
+                    StartPatrol();
+                    intWaitTime = waitTime;
+                    seenPlayer = false;
+                }
             }
             else if (seenPlayer)
             {
@@ -94,7 +110,7 @@ public class MounstrueControlo : MonoBehaviour
             }
         }
 
-        if (!seeingPlayer && seenPlayer)
+        if (seenPlayer)
         {
             intWaitTime -= Time.deltaTime;
         }
@@ -144,6 +160,13 @@ public class MounstrueControlo : MonoBehaviour
     void NextTarget()
     {
         UpdateTarget(currentTargetIndex + 1);
+    }
+
+    IEnumerable ResetVis()
+    {
+        yield return new WaitForSeconds(3.0f);
+        print("reset");
+        canSeePlayer = true;
     }
 
     void OnDrawGizmosSelected()
